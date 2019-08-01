@@ -1,0 +1,5 @@
+.emacs.d/elpa/
+.emacs.d/ido.last
+.zsh/histfile
+.zsh/zcompdump
+.zsh/zcompdump.zwc
