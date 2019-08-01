@@ -2,3 +2,4 @@
 	path = .zsh/themes/geometry
 	url = https://github.com/geometry-zsh/geometry.git
 	ignore = dirty
+
